@@ -88,10 +88,10 @@ color: rgb(20, 202, 50);
 
    /* ABDULAZIZ CSS */
 
-   .seed_header{
-    text-align: center;
-    padding-top: 40px;
-    color: rgb(20, 202, 50);
+ .seed_header{
+  text-align: center;
+  padding-top: 50px;
+  color: rgb(20, 202, 50);
 }
 .seeds {
   display: flex;
@@ -116,6 +116,8 @@ color: rgb(20, 202, 50);
   padding-left: 10px;
   font-size: 18px;
   font-weight: bold;
+  text-transform: uppercase;
+  color: rgb(20, 202, 50);
 } 
 .button-group {
   display: flex;
@@ -129,7 +131,7 @@ color: rgb(20, 202, 50);
   margin: 5px;
   padding: 5px 10px;
   font-size: 14px;
-  border: 0.2px solid grey;
+  border: 0.2px solid rgb(20, 202, 50);
   border-radius: 10px;
   text-align: center;
 }
