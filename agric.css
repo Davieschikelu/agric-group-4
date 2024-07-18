@@ -84,4 +84,10 @@ color: rgb(20, 202, 50);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(20, 202, 50);
    }
-  
+  .onom {
+    background-image: url(images2/bracg.webp);
+    object-fit: contain;
+    width: 1280px;
+    height: 250px;
+    margin-top: 30px;
+}
