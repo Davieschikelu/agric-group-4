@@ -87,7 +87,85 @@ color: rgb(20, 202, 50);
   .onom {
     background-image: url(images2/bracg.webp);
     object-fit: contain;
-    width: 1280px;
+    width: 1265px;
     height: 250px;
     margin-top: 30px;
 }
+.footer p {
+    /* background-color: #000000; */
+    text-decoration: #4ec011;
+  }
+  
+  .footer {
+  
+    background-color: rgb(53, 203, 24);
+    padding: 40px 20px;
+  }
+  
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .footer-col {
+    flex: 1;
+    min-width: 150px;
+    margin: 20px 10px;
+  }
+  
+  .footer-col h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .footer-col ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-col ul li {
+    margin-bottom: 8px;
+  }
+  
+  .footer-col ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .footer-col ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .pop {
+    color: white;
+  }
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid white;
+    padding-top: 20px;
+    margin-top: 20px;
+    width: 100%;
+    gap: 20px;
+  }
+  .footer-links {
+    display: flex;
+    color: white;
+  }
+  .footer-links a {
+    margin-right: 20px;
+    margin-top: 3px;
+    text-decoration: none;
+    color: white;
+    left: 20px;
+  }
+  .footer-links p{
+      color: white;
+      font-size: 16px;
+  }
+  
+  
+  
