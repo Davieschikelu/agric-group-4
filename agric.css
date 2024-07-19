@@ -97,6 +97,7 @@ color: rgb(20, 202, 50);
   .sec2{
     display: flex;
     width: 100%;
+    gap: 10px;
   }
   .img{
     height: 500px;
@@ -106,5 +107,6 @@ color: rgb(20, 202, 50);
     width: 100%;
   }
   .div2{
+    
     width: 100%;
   }
